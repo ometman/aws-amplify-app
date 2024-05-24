@@ -1,1 +1,2 @@
-# aws-amplify-app wit Callum
+# aws-amplify-app
+Deploying from GitHub using Amplify on AWS
